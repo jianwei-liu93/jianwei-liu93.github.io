@@ -6,6 +6,7 @@ img:  /assets/img/projects/professional/RoBFMS/RoBFMS_onsite.jpg
 importance: 1
 category: professional
 related_publications: false
+selected: false
 ---
 
 <h3>Project Summary: </h3>

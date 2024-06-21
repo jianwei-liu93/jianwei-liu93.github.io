@@ -6,6 +6,7 @@ img:  /assets/img/projects/professional/IFROG/IFROG_onsite.png
 importance: 1
 category: professional
 related_publications: false
+selected: true
 ---
 
 <h3>Project Summary: </h3>
