@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: List of professional projects.
+description: List of past projects.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [professional, personal] #, examples]
 horizontal: false
 ---
 
