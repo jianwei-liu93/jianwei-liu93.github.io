@@ -22,6 +22,9 @@ related_publications: false
 <tr>
     <th colspan="2">Project Partners: Innvotek, TWI, ORE Catapult, Renewable Advice, London South Bank University, Forth Engineering</th>
 </tr>
+<tr>
+    <th> Project period: Nov 2020 – Jun 2021</th>
+</tr>
 </table>
 <br>
 <h3>Project description: </h3>

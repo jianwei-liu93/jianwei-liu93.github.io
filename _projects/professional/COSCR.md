@@ -22,6 +22,9 @@ related_publications: false
 <tr>
     <th colspan="2">Project Partners: InnoTecUK, HAL robotics, BRE., Skanska, ABB, Skyjack UK</th>
 </tr>
+<tr>
+    <th> Project period: Apr 2019 – Mar 2021</th>
+</tr>
 </table>
 <br>
 <h3>Project description: </h3>
