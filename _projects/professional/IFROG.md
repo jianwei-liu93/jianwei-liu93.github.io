@@ -22,6 +22,9 @@ related_publications: false
 <tr>
     <th colspan="2">Project Partners: InnoTecUK, Brunel University, ORE Catapult, TWI</th>
 </tr>
+<tr>
+    <th> Project period: Mar 2018 – Nov 2020</th>
+</tr>
 </table>
 <br>
 <h3>Project description: </h3>

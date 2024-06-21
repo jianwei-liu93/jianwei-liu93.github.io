@@ -22,6 +22,9 @@ related_publications: false
 <tr>
     <th colspan="2">Project Partners: InnoTecUK, Applied Inspectiom, E.On Technologies, Eastpoint Software, TWI</th>
 </tr>
+<tr>
+    <th> Project period: Feb 2019 – Nov 2019</th>
+</tr>
 </table>
 <br>
 <h3>Project description: </h3>

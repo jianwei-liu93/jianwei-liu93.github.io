@@ -22,6 +22,9 @@ related_publications: false
 <tr>
     <th colspan="2">Project Partners: InnoTecUK, Brunel University</th>
 </tr>
+<tr>
+    <th> Project period: Apr 2018 – Apr 2019</th>
+</tr>
 </table>
 <br>
 <h3>Project description: </h3>
