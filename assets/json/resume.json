@@ -10,14 +10,14 @@
     "location": {
       "city": "London",
       "countryCode": "UK"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    }
+    // "profiles": [
+    //   {
+    //     "network": "Twitter",
+    //     "username": "AlbertEinstein",
+    //     "url": "https://twitter.com/AlbertEinstein"
+    //   }
+    // ]
   },
   "education": [
     {
@@ -43,7 +43,7 @@
     {
       "institution": "King’s College London ",
       "location": "London, UK",
-      "studyType": "MSc Robotics and Computation",
+      "studyType": "MSc Robotics",
       "startDate": "2016",
       "endDate": "2017",
       "score": "Merit"
