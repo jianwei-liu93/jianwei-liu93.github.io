@@ -19,9 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently a PhD student (Sep. 2022 - 2027), working with [Prof. Dimitrios Kanoulas](https://dkanou.github.io/) at the [RPL lab](https://rpl-as-ucl.github.io/) and the [Foundational AI CDT](https://www.ucl.ac.uk/foundational-ai-cdt/people/student-profiles) at [University College London](https://www.ucl.ac.uk/). My current research direction involves utilising Generative ML models (e.g. diffusion models) and Neuromorphic learning for planning for legged robots.
+I am currently a PhD student (Sep. 2022 - 2027), working with [Prof. Dimitrios Kanoulas](https://dkanou.github.io/) at the [RPL lab](https://rpl-as-ucl.github.io/) and the [Foundational AI CDT](https://www.ucl.ac.uk/foundational-ai-cdt/people/student-profiles) at [University College London](https://www.ucl.ac.uk/). My current research direction involves utilising Generative ML models (e.g. diffusion models) and Neuromorphic learning for planning for legged robots. I'm also interested in exploring topics such as continual learning and open-endness.
 
-Prior to starting the PhD, I obtained a MEng in Biomedical Engineering from [Imperial College London](https://www.imperial.ac.uk/), a MSc in Robotics and Computation from UCL, and worked in industry as a robotics software engineer on off-shore NDT inspection robots and construction robots. 
+Prior to starting the PhD, I obtained a MEng in Biomedical Engineering from [Imperial College London](https://www.imperial.ac.uk/), a MSc in Robotics and Computation from UCL, and worked in industry as a robotics software engineer on off-shore NDT inspection robots and construction robots (see past projects [here](/projects/)). 
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
