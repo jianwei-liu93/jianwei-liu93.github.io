@@ -38,8 +38,8 @@ layout: default
       </div>
     {% endif %}
 
-
-    <div class="clearfix">{{ content }}
+    <div class="clearfix">
+      {{ content }}
       {% if page.social %}
         <center>
           <div class="social">
@@ -51,7 +51,6 @@ layout: default
         </center>
       {% endif %}
     </div>
-
 
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
@@ -77,10 +76,9 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
-
     <!-- Selected Projects -->
     {% if page.selected_projects %}
-      <br />
+      <br>
       <h2>
         <a href="{{ '/projects/' | relative_url }}" style="color: inherit">selected projects</a>
       </h2>

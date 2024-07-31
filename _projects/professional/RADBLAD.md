@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Windturbine blade inspection robot - RADBLAD
-description: 
-img:  /assets/img/projects/professional/Radblad/Radblad_robot_render.jpg
+description:
+img: /assets/img/projects/professional/Radblad/Radblad_robot_render.jpg
 importance: 1
 category: professional
 related_publications: false
@@ -10,7 +10,6 @@ selected: true
 ---
 
 <h3>Project Summary: </h3>
-
 
 <table>
 <tr>
@@ -57,12 +56,9 @@ RADBLAD is a robot system designed to carry out an X-ray maintenance survey of w
     Example outputs from the defect detection ML pipeline.
 </div>
 
-
 <h3>Personal Role within project: </h3>
 <ul>
   <li>Development of machine learning based defect detection pipeline for automated wind turbine X-ray images analysis utilising TensorFlow and Keras. </li>
   <li>Coordinated effort with partner organisations to collect dataset for x-ray detection of windturbine defects.</li>
   <li>Development of user friendly application to allow operators to use the automated defect detetion model.</li>
 </ul>
-
-

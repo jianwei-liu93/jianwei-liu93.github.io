@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Autonomous Construction Site Robot - COSCR
-description: 
-img:  /assets/img/projects/professional/COSCR/COSCR_in_workshop.jpg
+description:
+img: /assets/img/projects/professional/COSCR/COSCR_in_workshop.jpg
 importance: 1
 category: professional
 related_publications: false
@@ -10,7 +10,6 @@ selected: true
 ---
 
 <h3>Project Summary: </h3>
-
 
 <table>
 <tr>
@@ -33,7 +32,6 @@ selected: true
 The COSCR project aims to bring a novel solution to the construction industry – a fully autonomous mobile robot with an integrated lifter and robotic arm able to perform works at height, especially drilling holes in the underside of concrete floor slabs to enable fixings for services and suspended ceilings. This is repetitive, labour intensive task has significant H&S implications for workers and presents a significant, global market for robotic solutions.
 
 In addition to this the project aims to be able to safely work in close proximity with humans in a dynamic environment as well as link to BIM (Building Information Modelling) system to enable autonomous working directly from CAD.
-
 
 <div class="row align-items-end">
     <div class="col ">
@@ -63,7 +61,6 @@ In addition to this the project aims to be able to safely work in close proximit
     COSCR drilling test video.
 </div>
 
-
 <h3>Personal Role within project: </h3>
 <ul>
   <li>Project technical lead/coordinator within InnoTecUK to coordinate efforts of mechanical, electronics and software teams</li>
@@ -72,5 +69,3 @@ In addition to this the project aims to be able to safely work in close proximit
   <li>Development and tuning of the ROS based autonomous localisation and path planning software stack</li>
   <li>Designed and carried out of test to validate built system</li>
 </ul>
-
-

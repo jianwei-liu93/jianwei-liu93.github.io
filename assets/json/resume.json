@@ -30,7 +30,6 @@
       "score": "10"
       // "courses": ["Theory of Relativity"]
     },
-    
     {
       "institution": "University College London",
       "location": "London, UK",
@@ -55,7 +54,6 @@
       "endDate": "2015",
       "score": "2:1"
     }
-
   ],
   "work": [
     {
@@ -81,7 +79,6 @@
       "startDate": "2018-01",
       "endDate": "2018-12"
     }
-
   ],
   // "volunteer": [
   //   {

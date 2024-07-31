@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Offshore wind turbine maintance robot - RoBFMS
-description: 
-img:  /assets/img/projects/professional/RoBFMS/RoBFMS_onsite.jpg
+description:
+img: /assets/img/projects/professional/RoBFMS/RoBFMS_onsite.jpg
 importance: 1
 category: professional
 related_publications: false
@@ -10,7 +10,6 @@ selected: false
 ---
 
 <h3>Project Summary: </h3>
-
 
 <table>
 <tr>
@@ -48,12 +47,9 @@ RoBFMS is an automated cleaning platform for offshore monopile wind turbines. Th
     RoBFMS In lab mapping test video.
 </div>
 
-
 <h3>Personal Role within project: </h3>
 <ul>
   <li>Project technical lead/coordinator within InnoTecUK to coordinate efforts of mechanical, electronics and software teams.</li>
   <li>Software architecture design.</li>
   <li>Development of the ROS based control, localisation and teleoperation software stack.</li>
 </ul>
-
-

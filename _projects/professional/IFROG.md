@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Offshore wind turbine maintance robot - IFROG
-description: 
-img:  /assets/img/projects/professional/IFROG/IFROG_onsite.png
+description:
+img: /assets/img/projects/professional/IFROG/IFROG_onsite.png
 importance: 1
 category: professional
 related_publications: false
@@ -10,7 +10,6 @@ selected: true
 ---
 
 <h3>Project Summary: </h3>
-
 
 <table>
 <tr>
@@ -50,10 +49,7 @@ Teams of iFROG robots will be able to clean corrosion and biofouling from monopi
     iFROG Promo video.
 </div>
 
-
 <h3>Personal Role within project: </h3>
 <ul>
   <li>Research and development of ROS based robotic localisation and visualisation software packages for harsh underwater offshore environments.</li>
 </ul>
-
-
