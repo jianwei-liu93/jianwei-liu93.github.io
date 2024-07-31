@@ -43,18 +43,18 @@ RADBLAD is a robot system designed to carry out an X-ray maintenance survey of w
 
 <div class="row align-items-end">
     <div class="col">
-        {% include figure.liquid loading="eager" path="/assets/img/projects/professional/Radblad/defect_detection_ex_1.png" title="Rendered Image of Radblad robot in operation" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="/assets/img/projects/professional/Radblad/defect_detection_ex_1.png" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col">
-        {% include figure.liquid loading="eager" path="/assets/img/projects/professional/Radblad/defect_detection_ex_2.png" title="Rendered Image of Radblad robot in operation" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="/assets/img/projects/professional/Radblad/defect_detection_ex_2.png"  class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col">
-        {% include figure.liquid loading="eager" path="/assets/img/projects/professional/Radblad/defect_detection_ex_3.png" title="Rendered Image of Radblad robot in operation" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="/assets/img/projects/professional/Radblad/defect_detection_ex_3.png" class="img-fluid rounded z-depth-1" %}
     </div>
 
 </div>
 <div class="caption">
-    Rendered image of Radblad robot in operation on Windturbine.
+    Example outputs from the defect detection ML pipeline.
 </div>
 
 
