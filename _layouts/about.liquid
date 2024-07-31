@@ -42,9 +42,11 @@ layout: default
     <div class="clearfix">{{ content }}
       {% if page.social %}
         <center>
-        <font size="+3">
-          <div class="contact-icons">{% include social.liquid %}</div>
-        </font size>
+          <div class="social">
+            <div class="contact-icons" style="font-size: 3em;">
+              {% include social.liquid %}
+            </div>
+          </div>
           <div class="contact-note">{{ site.contact_note }}</div>
         </center>
       {% endif %}
