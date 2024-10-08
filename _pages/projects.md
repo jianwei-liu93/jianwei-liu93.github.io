@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: List of past projects.
+description: List of past and current non-academic projects.
 nav: true
 nav_order: 3
 display_categories: [professional, personal] #, examples]
@@ -18,7 +18,9 @@ horizontal: false
     <h2 class="category">{{ category }}</h2>
   </a>
   {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
+  <!-- {% assign sorted_projects = categorized_projects | sort: "importance" %} -->
+  {% assign sorted_projects = categorized_projects | sort: "date" | reverse%}
+
   <!-- Generate cards for each project -->
   {% if page.horizontal %}
   <div class="container">
